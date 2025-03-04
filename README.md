@@ -17,7 +17,7 @@ I'm a passionate Software Developer with a knack for problem-solving and an eye 
 
 ## 📌 What I’m Working On
 - 🔹 **Tapestry** – A social platform fostering meaningful community engagement (Full-stack)
-- 🔹 **Nomad** – Contributing to an AI-driven ecosystem for digital nomads (GitHub, Website)
+- 🔹 **Nomad** – Contributing to an social media platform for digital nomads (Full-stack)
 - 🔹 Strengthening my backend & database expertise
 - 🔹 Exploring software architecture and best practices
 
